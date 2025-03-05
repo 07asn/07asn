@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Docker**
 
-- 👨‍💻 Take a look at my Portfolio [https://07asn.github.io/Portfolio/](https://07asn.github.io/Portfolio/)
+- 👨‍💻 Take a look at my Portfolio [Portfolio Link](https://07asn.github.io/Portfolio/)
 
 - 📫 How to reach me **07ASN.M@gmail.com**
 
-- 📄 Know about my experiences [CV](https://07asn.github.io/Portfolio/html/cv.html)
+- 📄 Know about my experiences [CV Link](https://07asn.github.io/Portfolio/html/cv.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
