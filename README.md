@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Docker**
 
-- 👨‍💻 Take a look at my Portfolio [https://github.com/07asn/Portfolio.git](https://github.com/07asn/Portfolio.git)
+- 👨‍💻 Take a look at my Portfolio [https://07asn.github.io/Portfolio/](https://07asn.github.io/Portfolio/)
 
 - 📫 How to reach me **07ASN.M@gmail.com**
 
