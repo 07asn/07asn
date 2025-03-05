@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **07ASN.M@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1l52n7Osve1hXewSPAcnlV1j3FhpnBd_w/view?usp=drive_link](https://drive.google.com/file/d/1l52n7Osve1hXewSPAcnlV1j3FhpnBd_w/view?usp=drive_link)
+- 📄 Know about my experiences [CV](https://07asn.github.io/Portfolio/html/cv.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
