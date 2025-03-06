@@ -71,7 +71,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.gifer.com/embedded/download/HmtM.gif"  />
+<img height="200" src="https://i.gifer.com/embedded/download/HmtM.gif"
 </div>
 
 ###
