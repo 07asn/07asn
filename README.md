@@ -18,11 +18,11 @@
   
 ###
 
-<div align="left">
+<div align="left">Follow me on Youtube
   <a href="https://www.youtube.com/@i7asn" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <span> Follow me on Youtube</span>
+
 </div>
 
 ###
