@@ -21,7 +21,7 @@
 <div align="left">
   <a href="https://www.youtube.com/@i7asn" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-    <h4>Follow me on Youtube</h4>
+    <span><b>Follow me on Youtube</b>b</span>
   </a>
 
 </div>
