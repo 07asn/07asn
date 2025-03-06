@@ -18,16 +18,6 @@
   
 ###
 
-<div align="left">
-  <a href="https://www.youtube.com/@i7asn" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-    <span><b>Follow me on Youtube</b>b</span>
-  </a>
-
-</div>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
