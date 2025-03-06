@@ -70,12 +70,6 @@
 
 ###
 
-<div align="center">
-<img height="200" src="https://i.gifer.com/embedded/download/HmtM.gif"
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/07asn/07asn/output/snake.svg" alt="Snake animation" />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=07asn" alt="07asn" /></a> </p>
 
 ###
