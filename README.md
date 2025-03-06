@@ -1,3 +1,6 @@
+<img src="github.png" alt="GitHub Banner" width="100%" />
+
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
