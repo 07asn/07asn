@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">✨ Take a look at my Portfolio https://07asn.github.io/Portfolio/<br>🎯 How to reach me 07ASN.M@gmail.com<br>✨ Know about my experiences https://07asn.github.io/Portfolio/html/cv.html</h3>
+<h3 align="left">✨ Take a look at my Portfolio [Portfolio Link](https://07asn.github.io/Portfolio/)/<br>🎯 How to reach me <b>07ASN.M@gmail.com</b> <br>✨ Know about my experiences [CV Link](https://07asn.github.io/Portfolio/html/cv.html)</h3>
 
 ###
 
