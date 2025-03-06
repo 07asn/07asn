@@ -76,3 +76,6 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/07asn/07asn/output/snake.svg" alt="Snake animation" />
+
+###
