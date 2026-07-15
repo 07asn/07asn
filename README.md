@@ -37,7 +37,8 @@ clean architectures, and business-driven applications.
 
 ### Databases & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,oracle,docker" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,docker" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
 ### Tools
