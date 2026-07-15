@@ -48,20 +48,13 @@ clean architectures, and business-driven applications.
 
 ---
 
-## 🧠 Areas of Interest
-
-- Software Architecture
-- System Design
-- Distributed Systems
-- Cloud-Native Applications
-- Performance Optimization
 - Clean Code & Best Practices
 
 ---
 
 ## 🏆 Achievements
 
-- Built and launched **07ASN** from idea to production.
+- Built and launched **07ASN** from idea to production (serve +10,000 customers.
 - Developed and maintained **production ERP systems** used by businesses.
 - Designed and implemented multiple business modules across **accounting, manufacturing, and inventory** domains.
 - Successfully delivered **14+ end-to-end software projects** from concept to production.
