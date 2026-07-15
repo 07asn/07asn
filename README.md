@@ -6,9 +6,15 @@ clean architectures, and business-driven applications.
 </h3>
 
 <p align="center">
-  <a href="https://07asn.com">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/your-linkedin">LinkedIn</a> •
-  <a href="mailto:07ASN.M@gmail.com">Email</a>
+  <a href="https://07asn.com">
+    <img src="https://img.shields.io/badge/Portfolio-07ASN.com-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:07ASN.M@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -45,10 +51,6 @@ clean architectures, and business-driven applications.
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,figma,idea,vscode" />
 </p>
-
----
-
-- Clean Code & Best Practices
 
 ---
 
