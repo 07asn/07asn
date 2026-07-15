@@ -20,7 +20,6 @@ clean architectures, and business-driven applications.
 - Building scalable **Multi-Tenant SaaS** applications using **Java & Spring Boot**
 - Founder of **07ASN**, an online gaming platform serving players in Jordan
 - Passionate about **Software Architecture, System Design, and Performance Optimization**
-- Currently exploring **AI applications and Retrieval-Augmented Generation (RAG)**
 
 ---
 
@@ -28,7 +27,7 @@ clean architectures, and business-driven applications.
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,maven" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,maven,hibernate" />
 </p>
 
 ### Frontend
@@ -38,7 +37,7 @@ clean architectures, and business-driven applications.
 
 ### Databases & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,docker" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,oracle,docker" />
 </p>
 
 ### Tools
@@ -73,15 +72,7 @@ clean architectures, and business-driven applications.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=07asn&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=07asn&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=07asn&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
