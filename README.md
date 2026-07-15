@@ -54,7 +54,7 @@ clean architectures, and business-driven applications.
 
 ## 🏆 Achievements
 
-- Built and launched **07ASN** from idea to production (serve +10,000 customers.
+- Built and launched **07ASN** from idea to production (serve +10,000 customers).
 - Developed and maintained **production ERP systems** used by businesses.
 - Designed and implemented multiple business modules across **accounting, manufacturing, and inventory** domains.
 - Successfully delivered **14+ end-to-end software projects** from concept to production.
