@@ -49,37 +49,10 @@ clean architectures, and business-driven applications.
 ## 🧠 Areas of Interest
 
 - Software Architecture
-- Multi-Tenant Systems
 - System Design
-- Performance & Load Testing
 - Clean Code
 - Distributed Systems
 - Cloud-Native Applications
-
----
-
-## 📌 Featured Projects
-
-### 🏢 Jewefy ERP
-A cloud-based Multi-Tenant ERP system for jewelry businesses including:
-
-- Accounting
-- Inventory Management
-- Manufacturing
-- POS
-- Reporting
-
-### 🎮 07ASN
-An online gaming platform serving players in Jordan with:
-
-- Product Catalog
-- WhatsApp Ordering
-- Admin Dashboard
-- SEO Optimization
-- Zero Monthly Infrastructure Cost
-
-### 🏭 Manufacturing Management System
-Manufacturing workflows integrated with accounting and inventory modules.
 
 ---
 
