@@ -6,19 +6,21 @@ clean architectures, and business-driven applications.
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=07asn&label=Profile%20Views&color=0e75b6&style=flat" alt="07asn" />
+  <a href="https://07asn.com">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/your-linkedin">LinkedIn</a> •
+  <a href="mailto:07ASN.M@gmail.com">Email</a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💼 Software Engineer at Geoify
-- 🌍 Based in Jordan
-- 🏗️ Building scalable Multi-Tenant SaaS applications using Java & Spring Boot
-- 🎮 Founder of **07ASN**, an online gaming platform serving players in Jordan
-- ⚡ Passionate about Software Architecture, System Design, and Performance Optimization
-- 🌱 Currently exploring AI applications and Retrieval-Augmented Generation (RAG)
+- Software Engineer at **Jewefy**
+- Based in **Jordan**
+- Building scalable **Multi-Tenant SaaS** applications using **Java & Spring Boot**
+- Founder of **07ASN**, an online gaming platform serving players in Jordan
+- Passionate about **Software Architecture, System Design, and Performance Optimization**
+- Currently exploring **AI applications and Retrieval-Augmented Generation (RAG)**
 
 ---
 
@@ -41,7 +43,7 @@ clean architectures, and business-driven applications.
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,idea,vscode" />
 </p>
 
 ---
@@ -50,9 +52,21 @@ clean architectures, and business-driven applications.
 
 - Software Architecture
 - System Design
-- Clean Code
 - Distributed Systems
 - Cloud-Native Applications
+- Performance Optimization
+- Clean Code & Best Practices
+
+---
+
+## 🏆 Achievements
+
+- Built and launched **07ASN** from idea to production.
+- Developed and maintained **production ERP systems** used by businesses.
+- Designed and implemented multiple business modules across **accounting, manufacturing, and inventory** domains.
+- Successfully delivered **14+ end-to-end software projects** from concept to production.
+- Built scalable **REST APIs** and **Multi-Tenant architectures** for business applications.
+- Contributed to high-impact business systems focused on **performance, scalability, and maintainability**.
 
 ---
 
@@ -72,21 +86,12 @@ clean architectures, and business-driven applications.
 
 ---
 
-## 🏆 Achievements
-
-- 🚀 Built and launched 07ASN from idea to production.
-- 💼 Developed and maintained production ERP systems used by businesses.
-- 🏗️ Designed and implemented multiple business modules across accounting, manufacturing, and inventory domains.
-- ⚡ Experienced in building scalable APIs and Multi-Tenant architectures.
-
----
-
 ## 🌐 Connect With Me
 
-- 🌍 Portfolio: https://07asn.com
-- 📄 CV: https://07asn.github.io/Portfolio/html/cv.html
-- 📧 Email: 07ASN.M@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin
+- Portfolio: https://07asn.com
+- CV: https://07asn.github.io/Portfolio/html/cv.html
+- Email: 07ASN.M@gmail.com
+- LinkedIn: https://www.linkedin.com/in/your-linkedin
 
 ---
 
