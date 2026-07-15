@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi there 👋, I'm Hasan Mansour</h1>
 
 <h3 align="center">
@@ -121,4 +120,3 @@ Manufacturing workflows integrated with accounting and inventory modules.
 <h3 align="center">
 ⭐️ Thanks for visiting my profile! Feel free to connect and collaborate.
 </h3>
-```
