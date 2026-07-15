@@ -6,8 +6,11 @@ clean architectures, and business-driven applications.
 </h3>
 
 <p align="center">
+  <a href="https://07asn.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
   <a href="https://07asn.com">
-    <img src="https://img.shields.io/badge/Portfolio-07ASN.com-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/07ASN-My%20Gaming%20Store-FF6B00?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
