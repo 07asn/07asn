@@ -1,75 +1,124 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+```md
+<h1 align="center">Hi there 👋, I'm Hasan Mansour</h1>
 
-###
+<h3 align="center">
+Java Full Stack Software Engineer passionate about building scalable SaaS systems,
+clean architectures, and business-driven applications.
+</h3>
 
-<h3 align="left">My name is Hasan Mansour and I'm a Java & MERN Full Stack Developer, from Jordan</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=07asn&label=Profile%20Views&color=0e75b6&style=flat" alt="07asn" />
+</p>
 
-###
+---
 
-<h2 align="left">About me</h2>
+## 🚀 About Me
 
-###
+- 💼 Software Engineer at Geoify
+- 🌍 Based in Jordan
+- 🏗️ Building scalable Multi-Tenant SaaS applications using Java & Spring Boot
+- 🎮 Founder of **07ASN**, an online gaming platform serving players in Jordan
+- ⚡ Passionate about Software Architecture, System Design, and Performance Optimization
+- 🌱 Currently exploring AI applications and Retrieval-Augmented Generation (RAG)
 
-- 👨‍💻 Take a look at my Portfolio [Portfolio Link](https://07asn.github.io/Portfolio/)
+---
 
-- 📫 How to reach me **07ASN.M@gmail.com**
+## 🛠️ Tech Stack
 
-- 📄 Know about my experiences [CV Link](https://07asn.github.io/Portfolio/html/cv.html)
-  
-###
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,maven" />
+</p>
 
-<h2 align="left">I code with</h2>
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,typescript,javascript,html,css,tailwind,bootstrap" />
+</p>
 
-###
+### Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,docker" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongodb logo"  />
-</div>
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,idea" />
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
-</div>
+## 🧠 Areas of Interest
 
-###
+- Software Architecture
+- Multi-Tenant Systems
+- System Design
+- Performance & Load Testing
+- Clean Code
+- Distributed Systems
+- Cloud-Native Applications
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=07asn" alt="07asn" /></a> </p>
+---
 
-###
+## 📌 Featured Projects
+
+### 🏢 Jewefy ERP
+A cloud-based Multi-Tenant ERP system for jewelry businesses including:
+
+- Accounting
+- Inventory Management
+- Manufacturing
+- POS
+- Reporting
+
+### 🎮 07ASN
+An online gaming platform serving players in Jordan with:
+
+- Product Catalog
+- WhatsApp Ordering
+- Admin Dashboard
+- SEO Optimization
+- Zero Monthly Infrastructure Cost
+
+### 🏭 Manufacturing Management System
+Manufacturing workflows integrated with accounting and inventory modules.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=07asn&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=07asn&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=07asn&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+- 🚀 Built and launched 07ASN from idea to production.
+- 💼 Developed and maintained production ERP systems used by businesses.
+- 🏗️ Designed and implemented multiple business modules across accounting, manufacturing, and inventory domains.
+- ⚡ Experienced in building scalable APIs and Multi-Tenant architectures.
+
+---
+
+## 🌐 Connect With Me
+
+- 🌍 Portfolio: https://07asn.com
+- 📄 CV: https://07asn.github.io/Portfolio/html/cv.html
+- 📧 Email: 07ASN.M@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/your-linkedin
+
+---
+
+<h3 align="center">
+⭐️ Thanks for visiting my profile! Feel free to connect and collaborate.
+</h3>
+```
